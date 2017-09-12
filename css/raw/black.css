@@ -1562,9 +1562,9 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 .channel_page_member_row { color: #e6e6e6; }
 
-.channel_page_member_row a { color: #949494; }
+.channel_page_member_row a { color: #e6e6e6; }
 
-.channel_page_member_row.away { color: #e6e6e6; }
+.channel_page_member_row.away { color: #949494; }
 
 .channel_page_member_row.away a { color: #949494; }
 
