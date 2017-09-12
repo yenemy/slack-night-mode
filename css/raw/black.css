@@ -1562,11 +1562,15 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 .channel_page_member_row { color: #e6e6e6; }
 
+
+
 .channel_page_member_row a { color: #e6e6e6; }
 
 .channel_page_member_row.away { color: #949494; }
 
 .channel_page_member_row.away a { color: #949494; }
+
+.c-member__display-name, .c-team__display-name, .c-usergroup__handle { color: inherit; }
 
 .pinned_item { color: #e6e6e6; }
 
